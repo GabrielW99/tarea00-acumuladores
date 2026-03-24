@@ -1,7 +1,7 @@
 package acumuladores;
 
 public class Acumuladores {
-//Gabriel Emanuel Blanco COM2
+//Gabriel Emanuel Blanco COM1
 //Ej 1
 
 	static boolean hayMultiploFila(int fila[], int num) {
